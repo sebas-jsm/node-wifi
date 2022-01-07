@@ -153,6 +153,7 @@ wifi
 
 This project is tested with operating systems:
 
+- macOS Monterey 12.1
 - macOS Catalina 10.15.5
 - macOS Big Sur 11.5.1
 - linux Ubuntu 18.04.3 LTS
